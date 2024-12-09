@@ -1,0 +1,23 @@
+
+
+mitmproxy
+
+
+
+cd mitmdump/mitmproxy-main/release/
+python3.12 -m venv venv
+source venv/bin/activate
+pip install pyinstaller
+pip install mitmproxy
+python build.py standalone-binaries
+
+
+
+
+
+
+
+
+
+
+
