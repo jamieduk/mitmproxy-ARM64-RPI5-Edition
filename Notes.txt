@@ -1,6 +1,6 @@
 
 
-mitmproxy For ARM Compilation Commands as Orignaint dev is a tard!
+mitmproxy For ARM Compilation Commands as Original dev is a tard!
 
 git clone https://github.com/mitmproxy/mitmproxy.git
 
